@@ -1,0 +1,6 @@
+{
+  "name": "Smart Sealer Inventory",
+  "description": "Industrial IoT sealer drum inventory monitoring system with real-time level sensing, follower-plate simulation, consumption analytics, and reorder alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
